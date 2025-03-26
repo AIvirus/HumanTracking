@@ -32,8 +32,8 @@ HumanTracking/
 ## ⚡ Installation
 ### 📥 Clone this repository
 ```sh
- git clone https://github.com/your-repo/human-tracking.git
- cd human-tracking
+ git clone https://github.com/AIvirus/HumanTracking.git
+ cd HumanTracking
 ```
 ### 📦 Install dependencies
 ```sh
